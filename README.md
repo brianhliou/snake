@@ -1,6 +1,6 @@
 # snake
 
-![Demo Video](https://i.imgur.com/9BtrFid.gif)
+![Demo Video](./demo/snake_demo.gif)
 
 Commands to start game on Windows:
 
